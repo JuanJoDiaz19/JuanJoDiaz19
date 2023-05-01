@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juan Jose Diaz</h1>
+<h1 align="center">Hi 👋, I'm Juan Jose Diaz Parra</h1>
 <h3 align="center">A passionate Software Systems Engenieering Student</h3>
 <img align="right" alt="Coding" width="300" src="https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559.gif"/>
 
