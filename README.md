@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **Personal projects**
 
-- 🌱 I’m currently learning **Java, C++, Python and R**
+- 🌱 I’m currently learning **Spring boot, Django, React, and SQL**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
 - 💬 Ask me about **Music and books**
 
-- ⚡ Fun fact **I know a little bit of French**
+- ⚡ Fun fact **I'm fluent in French**
 
 
 
