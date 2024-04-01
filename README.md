@@ -10,7 +10,7 @@
 
 - 🧑‍💻 I’m currently studing **Software Engineering** at **ICESI University**
 
-- 🌱 I’m currently learning **Spring boot, API-REST, React, and Databases**
+- 🌱 I’m currently learning **Spring boot, API-REST, NodeJS, React, and Databases**
 
 - ✍️ I’m looking to work on **Back-end developement**
 
