@@ -8,7 +8,7 @@
 
 ## :space_invader: &nbsp; About me
 
-- 🧑‍💻 I’m currently studing **Software Engineering** at **ICESI University**
+- 🧑‍💻 I’m currently a **Software Engineer**
 
 - 🌱 I’m currently learning **Spring boot, API-REST, NodeJS, React, and Databases**
 
